@@ -4,7 +4,7 @@ public class extraEnd {
 
         public static void main(String[] args) {
             extraEnd obj = new extraEnd();
-            System.out.println(obj.extraEnd("Hello")); 
+            System.out.println(obj.extraEnd("Hello"));
             System.out.println(obj.extraEnd("ab"));
             System.out.println(obj.extraEnd("Hi"));
         }
