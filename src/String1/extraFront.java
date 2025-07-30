@@ -11,7 +11,7 @@ public class extraFront {
             extraFront obj = new extraFront ();
 
             System.out.println(obj.extraFront("Hello"));
-            System.out.println(obj.extraFront("ab"));     
+            System.out.println(obj.extraFront("ab"));
             System.out.println(obj.extraFront("H"));
             System.out.println(obj.extraFront(""));
         }
