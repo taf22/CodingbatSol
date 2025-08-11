@@ -21,7 +21,7 @@ public class maxBlock {
         return max;
     }
     public static void main(String[] args) {
-        System.out.println(maxBlock("hoopla"));          
+        System.out.println(maxBlock("hoopla"));
         System.out.println(maxBlock("abbCCCddBBBx"));
         System.out.println(maxBlock(""));
         System.out.println(maxBlock("aaaa"));
