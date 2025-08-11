@@ -21,10 +21,10 @@ public class maxBlock {
         return max;
     }
     public static void main(String[] args) {
-        System.out.println(maxBlock("hoopla"));           // ➞ 2
-        System.out.println(maxBlock("abbCCCddBBBx"));     // ➞ 3
-        System.out.println(maxBlock(""));                 // ➞ 0
-        System.out.println(maxBlock("aaaa"));             // ➞ 4
-        System.out.println(maxBlock("abbbcddddddee"));    // ➞ 6
+        System.out.println(maxBlock("hoopla"));          
+        System.out.println(maxBlock("abbCCCddBBBx"));
+        System.out.println(maxBlock(""));
+        System.out.println(maxBlock("aaaa"));
+        System.out.println(maxBlock("abbbcddddddee"));
     }
 }
