@@ -29,6 +29,7 @@ public class dateFashion {
 
         // Example 3
         System.out.println("Input: (5, 5)");
-        System.out.println("Output: " + dateFashion(5, 5));  
+        System.out.println("Output: " + dateFashion(5, 5));
+
     }
 }
